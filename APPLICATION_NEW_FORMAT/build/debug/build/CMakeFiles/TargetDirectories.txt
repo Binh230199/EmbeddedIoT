@@ -1,3 +1,0 @@
-C:/Users/This PC/STM32CubeIDE/VER_100/APPLICATION_NEW_FORMAT/build/debug/build/CMakeFiles/APPLICATION_NEW_FORMAT.dir
-C:/Users/This PC/STM32CubeIDE/VER_100/APPLICATION_NEW_FORMAT/build/debug/build/CMakeFiles/edit_cache.dir
-C:/Users/This PC/STM32CubeIDE/VER_100/APPLICATION_NEW_FORMAT/build/debug/build/CMakeFiles/rebuild_cache.dir

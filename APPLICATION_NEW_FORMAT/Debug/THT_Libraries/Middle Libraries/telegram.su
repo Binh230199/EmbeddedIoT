@@ -1,6 +1,0 @@
-telegram.c:15:19:TELEGRAM_init	24	static
-telegram.c:44:19:TELEGRAM_sendMessage	1288	static
-telegram.c:70:19:TELEGRAM_setToken	24	static
-telegram.c:83:19:TELEGRAM_setChatID	24	static
-telegram.c:103:19:TELEGRAM_readEEPROM	96	static
-telegram.c:149:19:TELEGRAM_writeEEPROM	112	static

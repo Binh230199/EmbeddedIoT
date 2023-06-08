@@ -1,6 +1,0 @@
-sdcard.c:14:19:SDCARD_init	16	static
-sdcard.c:30:19:SDCARD_mount	16	static
-sdcard.c:40:19:SDCARD_unmount	16	static
-sdcard.c:50:10:SDCARD_getFileSize	16	static
-sdcard.c:60:19:SDCARD_logData	24	static
-sdcard.c:75:19:SDCARD_setCurrentFile	40	static

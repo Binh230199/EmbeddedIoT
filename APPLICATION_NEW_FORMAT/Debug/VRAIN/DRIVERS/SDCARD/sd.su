@@ -1,7 +1,0 @@
-sd.c:15:9:SD_Detect	16	static
-sd.c:25:9:sd_mount	16	static
-sd.c:42:9:sd_unmount	24	static
-sd.c:58:9:sd_create_new_file	352	static
-sd.c:86:9:sd_update_file	360	static
-sd.c:118:10:sd_get_file_size	72	static
-sd.c:136:9:sd_create_new_dir	296	static

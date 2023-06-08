@@ -29,10 +29,10 @@ typedef struct
 	char httpURL[CFG_HTTP_URL_SIZE];
 } CFG_HandleTypeDef;
 
-#define CFG_GATE_READ_DEFAULT	("7769")
-#define CFG_GATE_SEND_DEFAULT	("8088")
-#define CFG_HTTP_URL_DEFAULT_VER10	("http://ws.vrain.vn/v2/vrain10")
-#define CFG_HTTP_URL_DEFAULT_VER60	("http://ws.vrain.vn/v2/vrain")
+#define CFG_GATE_READ_DEFAULT	("")
+#define CFG_GATE_SEND_DEFAULT	("")
+#define CFG_HTTP_URL_DEFAULT_VER10	("")
+#define CFG_HTTP_URL_DEFAULT_VER60	("")
 
 #define CFG_EEPROM_MODE				(THT_CONFIG_BASE)
 #define CFG_EEPROM_DEVICE_ID		(CFG_EEPROM_MODE + 1)

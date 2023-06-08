@@ -1,7 +1,0 @@
-gx909.c:14:26:GX909_sendCommand	48	static
-gx909.c:66:20:GX909_init	24	static
-gx909.c:103:20:GX909_deInit	16	static
-gx909.c:117:20:GX909_process	24	static
-gx909.c:180:13:GX909_getLevel	24	static
-gx909.c:208:20:GX909_getConfig	80	static
-gx909.c:249:20:GX909_setConfig	64	static
