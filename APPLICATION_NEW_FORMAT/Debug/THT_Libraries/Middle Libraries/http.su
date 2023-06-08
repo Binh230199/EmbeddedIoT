@@ -1,0 +1,10 @@
+http.c:26:6:HTTP_process	1256	static
+http.c:87:19:HTTP_init	24	static
+http.c:103:19:HTTP_checkResponse	32	static
+http.c:140:19:HTTP_sendCurrentData	424	static
+http.c:230:19:HTTP_sendLastData	32	static
+http.c:290:19:HTTP_sendBatteryWarn	304	static
+http.c:349:19:HTTP_sendSensorWarn	408	static
+http.c:408:19:HTTP_sendGetConfig	128	static
+http.c:439:19:HTTP_sendGetFirmwareURL	120	static
+http.c:462:19:HTTP_downloadFile	24	static

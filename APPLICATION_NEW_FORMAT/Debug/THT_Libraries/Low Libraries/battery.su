@@ -1,0 +1,4 @@
+battery.c:15:19:BATTERY_init	40	static
+battery.c:64:19:BATTERY_getPowerState	16	static
+battery.c:79:9:BATTERY_getBatteryPercent	24	static
+battery.c:121:7:BATTERY_getBatteryVoltage	24	static

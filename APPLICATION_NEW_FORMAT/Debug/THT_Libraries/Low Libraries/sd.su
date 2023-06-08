@@ -1,0 +1,6 @@
+sd.c:21:19:SD_mount	8	static
+sd.c:37:19:SD_unmount	8	static
+sd.c:54:19:SD_createFile	16	static
+sd.c:95:19:SD_updateFile	32	static
+sd.c:147:10:SD_getFileSize	24	static
+sd.c:175:19:SD_createDir	16	static

@@ -1,0 +1,6 @@
+bq2429x.c:17:26:BQ_readRegister	40	static
+bq2429x.c:48:26:BQ_writeRegister	32	static
+bq2429x.c:81:19:BQ_init	40	static
+bq2429x.c:109:19:BQ_readStatus	16	static
+bq2429x.c:124:19:BQ_readFault	16	static
+bq2429x.c:139:19:BQ_getPowerState	16	static

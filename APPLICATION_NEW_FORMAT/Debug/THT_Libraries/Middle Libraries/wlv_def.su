@@ -1,0 +1,4 @@
+wlv_def.c:21:6:THT_copyStringUntilToken	32	static
+wlv_def.c:67:19:THT_convertDoubleToHex	24	static
+wlv_def.c:79:19:THT_convertFloatToHex	24	static
+wlv_def.c:91:9:THT_Checksum8XOR	24	static

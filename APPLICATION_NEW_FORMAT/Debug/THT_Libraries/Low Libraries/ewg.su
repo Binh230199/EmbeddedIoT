@@ -1,0 +1,14 @@
+ewg.c:17:20:EWG_enableTransmitMode	16	static
+ewg.c:36:20:EWG_enableReceiveMode	16	static
+ewg.c:55:20:EWG_shutdownMode	16	static
+ewg.c:70:20:EWG_powerEnable	16	static
+ewg.c:85:20:EWG_powerDisable	16	static
+ewg.c:100:17:EWG_calcCRC16Modbus	24	static
+ewg.c:131:26:EWG_sendCommand	40	static
+ewg.c:189:19:EWG_init	32	static
+ewg.c:225:19:EWG_deInit	16	static
+ewg.c:243:19:EWG_process	16	static
+ewg.c:257:10:EWG_getLevel	40	static
+ewg.c:288:19:EWG_setSection	24	static
+ewg.c:305:19:EWG_getConfig	24	static
+ewg.c:320:19:EWG_writeEEPROMs	24	static

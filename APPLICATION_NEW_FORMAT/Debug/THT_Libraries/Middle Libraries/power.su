@@ -1,0 +1,4 @@
+power.c:12:19:POWER_init	16	static
+power.c:22:9:POWER_getBatPercent	16	static
+power.c:32:7:POWER_getBatVoltage	16	static
+power.c:42:19:POWER_getPowerState	16	static

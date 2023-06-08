@@ -1,0 +1,7 @@
+flash.c:14:6:flash_lock	8	static
+flash.c:22:6:flash_unlock	8	static
+flash.c:31:6:flash_erase	16	static
+flash.c:48:6:flash_write_int	16	static
+flash.c:61:6:flash_write_array	32	static
+flash.c:79:10:flash_read_int	24	static
+flash.c:91:6:flash_read_array	32	static

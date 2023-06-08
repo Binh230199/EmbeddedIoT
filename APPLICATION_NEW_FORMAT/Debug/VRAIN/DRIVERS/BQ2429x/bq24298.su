@@ -1,0 +1,13 @@
+bq24298.c:13:6:bq2429x_updateBit	168	static
+bq24298.c:40:6:bq2429x_status	16	static
+bq24298.c:92:6:bq2429x_fault	16	static
+bq24298.c:138:6:bq2429x_setInputLimit	16	static
+bq24298.c:147:6:bq2429x_powerConfig	16	static
+bq24298.c:155:6:bq2429x_chargeCurrentCtrl	16	static
+bq24298.c:163:6:bq2429x_ipreIterCtrl	16	static
+bq24298.c:172:6:bq2429x_chargeVoltCtrl	16	static
+bq24298.c:180:6:bq2429x_chargeTimerCtrl	16	static
+bq24298.c:188:6:bq2429x_boostCtrl	16	static
+bq24298.c:197:6:bq2429x_miscCtrl	16	static
+bq24298.c:206:5:bq2429x_read	24	static
+bq24298.c:216:6:bq2429x_write	32	static
